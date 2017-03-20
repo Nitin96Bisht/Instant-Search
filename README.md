@@ -4,8 +4,10 @@
 
 <li>Download project.</li>
 
-<li>Keep Search.html, search.css and search.js in same directory</li>
+<li>Keep <b>Search.html, search.css and search.js</b> in same directory</li>
 
-<li>Open Search.html in any web browser (Google Chrome etc.).</li>
+<li>Open <b>Search.html</b> in any web browser (Google Chrome etc.).</li>
 
 </ol>
+
+<h3>Note - Internet connection is required while running project.</h3>
